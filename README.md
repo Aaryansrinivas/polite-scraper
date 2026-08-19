@@ -1,4 +1,4 @@
-# The polite scraper — FlyRank Internship, Backend Track, W5 · A9
+# The polite scraper 
 
 A small, polite scraping pipeline for [Books to Scrape](https://books.toscrape.com):
 downloads the first 3 catalogue pages, visits all 60 book pages, turns messy HTML
